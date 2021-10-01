@@ -1,0 +1,12 @@
+img 
+{
+    width: 20%;
+    height: 20%;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+}
+body
+{
+ background-color: yellow;
+}
